@@ -17,8 +17,8 @@ function App() {
   "get ignored",
   "1 2 3 4 5 6 7 8 9 10 11 12"]]
   return (
-    <div className="App">
-      <Board values={test} rows={6} length={22} delay={1}/>
+    <div className="app-container">
+      <Board className = "board" values={test} />
     </div>
   );
 }
