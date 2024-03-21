@@ -1,0 +1,9 @@
+.board {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  row-gap: 1rem;
+  width: 80%;
+  height: 80%;
+}
