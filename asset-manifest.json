@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/split-flap/static/css/main.e9f58f0d.css",
+    "main.js": "/split-flap/static/js/main.4a82e7e3.js",
+    "static/js/453.7adabf8e.chunk.js": "/split-flap/static/js/453.7adabf8e.chunk.js",
+    "index.html": "/split-flap/index.html",
+    "main.e9f58f0d.css.map": "/split-flap/static/css/main.e9f58f0d.css.map",
+    "main.4a82e7e3.js.map": "/split-flap/static/js/main.4a82e7e3.js.map",
+    "453.7adabf8e.chunk.js.map": "/split-flap/static/js/453.7adabf8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9f58f0d.css",
+    "static/js/main.4a82e7e3.js"
+  ]
+}
