@@ -5,7 +5,7 @@ import "./board.styles.css"
 
 //fontSize and characterWidth value must be relatively similar to display the character correctly
 //delay is in minute
-const Board = ({values =[""], rows = 6, length = 22, delay = .5, step = 100 ,fontSize = "2.5rem", characterWidth = "2rem"}) => {
+const Board = ({values =[""], rows = 6, length = 22, delay = .25, step = 100 ,fontSize = "2.5rem", characterWidth = "2rem"}) => {
   console.log(values.length);
   let minutes = 60 * delay * 1000;
   const [messageValue, setMessageValue] = useState(0);
